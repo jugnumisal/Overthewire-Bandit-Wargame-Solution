@@ -22,7 +22,7 @@ boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 bandit0@bandit:~$ 
 ```
 
-The password to next level is
-```shell
+The password to Level1 is
+```json
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 ```

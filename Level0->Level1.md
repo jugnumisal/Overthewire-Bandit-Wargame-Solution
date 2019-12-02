@@ -22,4 +22,4 @@ boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 bandit0@bandit:~$ 
 ```
 
-The password to next level is `boJ9jbbUNNfktd78OOpsqOltutMc3MY1`
+The password to next level is ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)`boJ9jbbUNNfktd78OOpsqOltutMc3MY1`

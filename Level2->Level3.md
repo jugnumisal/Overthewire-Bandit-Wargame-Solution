@@ -29,4 +29,4 @@ The password to Level3 is
 UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 ```
 
-Go to [next]() level guide.
+Go to [next](https://github.com/jugnumisal/Overthewire-Bandit-Wargame-Solution/blob/master/Level3-%3ELevel4.md) level guide.

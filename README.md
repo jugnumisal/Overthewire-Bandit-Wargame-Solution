@@ -6,4 +6,5 @@ I highly recommend trying to retreive the password on your own and then read the
 
 # Guide on how to use the repository
 
-Separate readme files for each level solution is added to this repository with a walk through on how to use the linux commands to retreive the password to next level.
+* Separate readme files for each level solution is added to this repository with a walk through on how to use the linux commands to retreive the password to next level.
+* Start from [Level0]() 

@@ -23,6 +23,6 @@ bandit0@bandit:~$
 ```
 
 The password to Level1 is
-```json
+```shell
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 ```

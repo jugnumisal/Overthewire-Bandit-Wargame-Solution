@@ -1,1 +1,1 @@
-# [OverTheWire Bandit Level0](https://overthewire.org/wargames/bandit/bandit0.html) Solution Walkthrough
+### [OverTheWire Bandit Level0](https://overthewire.org/wargames/bandit/bandit0.html) Solution Walkthrough

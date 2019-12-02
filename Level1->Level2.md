@@ -29,4 +29,4 @@ The password to Level2 is
 CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 ```
 
-Go to [next]() level guide.
+Go to [next](https://github.com/jugnumisal/Overthewire-Bandit-Wargame-Solution/blob/master/Level2-%3ELevel3.md) level guide.

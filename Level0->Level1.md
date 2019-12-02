@@ -6,7 +6,7 @@
 
 #### Guide
 
-* For this level, I assume that you have already entered the `bandit0` system via SSH. If you are not in the `bandit0` system, please refer [level0](https://github.com/jugnumisal/Overthewire-Bandit-Wargame-Solution/blob/master/Level0.md) guide to enter the level0 system.
+* For this level, I assume that you have already entered the `bandit0` system via SSH. If you are not in the `bandit0` system, please refer [level0](https://github.com/jugnumisal/Overthewire-Bandit-Wargame-Solution/blob/master/Level0.md) guide to enter the `bandit0` system.
 
 * Once you are in the system, use the `ls` command to find a readme file. This is the file that contains the password to level1. To open the file, use `cat` command.
 
@@ -27,4 +27,4 @@ The password to Level1 is
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 ```
 
-Go to [next]() level guide.
+Go to [next](https://github.com/jugnumisal/Overthewire-Bandit-Wargame-Solution/blob/master/Level1-%3ELevel2.md) level guide.

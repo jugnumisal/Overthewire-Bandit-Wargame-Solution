@@ -26,3 +26,5 @@ The password to Level1 is
 ```shell
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 ```
+
+Go to [next]() level guide.

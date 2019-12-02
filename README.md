@@ -1,8 +1,8 @@
-This is a repository that shows how I attempted all the levels of [OverTheWire](https://overthewire.org/wargames/) 's: [Bandit](https://overthewire.org/wargames/bandit/) wargame.
+This is a repository that shows how I attempted all the levels of [OverTheWire](https://overthewire.org/wargames/)'s: [Bandit](https://overthewire.org/wargames/bandit/) wargame.
 
-## This repository shall be treated as guide on how to crack each level and should not be used as a tool to simply get the password to next level.
+This repository shall be treated as guide on how to crack each level and should not be used as a tool to simply get the password to next level.
 
-## I highly recommend trying to retreive the password on your own and then read the solution guide here if you are struck really bad.
+I highly recommend trying to retreive the password on your own and then read the solution guide here if you are struck really bad.
 
 # Guide on how to use the repository
 

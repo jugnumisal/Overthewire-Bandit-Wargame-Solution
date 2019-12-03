@@ -59,10 +59,10 @@ bandit5@bandit:~/inhere$ cat ./maybehere07/.file2
 DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 ```
 * Following is the explanation of each flag used in the find command:
-    > `.` after the find means that the find should be executed in the current directory.
-    > `-type` flag is used to mention the type of the file that you are searching for. Here we are searching for a file, hence `f`.
-    > `-size` flag is used to mention how much is the size of file that we are searching for. We are given that the file size is 1033 bytes, hence `1033c` where c represents bytes.
-    > Finally, we use `! -executable` to give the argument that the file is a non-executable type file.
+    * `.` after the find means that the find should be executed in the current directory.
+    * `-type` flag is used to mention the type of the file that you are searching for. Here we are searching for a file, hence `f`.
+    * `-size` flag is used to mention how much is the size of file that we are searching for. We are given that the file size is 1033 bytes, hence `1033c` where c represents bytes.
+    * Finally, we use `! -executable` to give the argument that the file is a non-executable type file.
 
 The password to Level6 is
 ```shell

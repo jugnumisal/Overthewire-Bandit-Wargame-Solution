@@ -33,8 +33,8 @@ bandit6@bandit:~$
 ```
 
 * `2>/dev/null` is used to throw the output into a null device:
-    > `2>` redirects the stderr to file
-    > `/dev/null` is the null device. It takes any input you want and throws it away. It can be used to suppress any output.
+    * `2>` redirects the stderr to file
+    * `/dev/null` is the null device. It takes any input you want and throws it away. It can be used to suppress any output.
 
 * A more shorter way to execute this command in one line is:
 

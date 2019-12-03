@@ -114,3 +114,4 @@ irc.overthewire.org.
 
 bandit0@bandit:~$ 
 ```
+Go to [next](https://github.com/jugnumisal/Overthewire-Bandit-Wargame-Solution/blob/master/Level0-%3ELevel1.md) level guide.

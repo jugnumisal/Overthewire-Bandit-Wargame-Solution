@@ -6,7 +6,7 @@
 
 #### Guide
 
-* For this level, I assume that you have already entered the `bandit9` system via SSH. If you are not in the `bandit9` system, please refer [level8->level9]() guide to enter the `bandit9` system.
+* For this level, I assume that you have already entered the `bandit9` system via SSH. If you are not in the `bandit9` system, please refer [level8->level9](https://github.com/jugnumisal/Overthewire-Bandit-Wargame-Solution/blob/master/Level8-%3ELevel9.md) guide to enter the `bandit9` system.
 
 * The file `data.txt` consists of many human-readable strings. Some of them begin with "=". To approach this problem, use the `strings` command followed by `grep` to limit the search to string starting with "=". Refer [strings](http://man7.org/linux/man-pages/man1/strings.1.html) for understanding its use.
 

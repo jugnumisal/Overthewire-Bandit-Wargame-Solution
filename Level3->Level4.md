@@ -45,4 +45,4 @@ The password to Level4 is
 pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 ```
 
-Go to [next]() level guide.
+Go to [next](https://github.com/jugnumisal/Overthewire-Bandit-Wargame-Solution/blob/master/Level4-%3ELevel5.md) level guide.

@@ -6,7 +6,7 @@
 
 #### Guide
 
-* For this level, I assume that you have already entered the `bandit4` system via SSH. If you are not in the `bandit4` system, please refer [level3->level4]() guide to enter the `bandit4` system.
+* For this level, I assume that you have already entered the `bandit4` system via SSH. If you are not in the `bandit4` system, please refer [level3->level4](https://github.com/jugnumisal/Overthewire-Bandit-Wargame-Solution/blob/master/Level3-%3ELevel4.md) guide to enter the `bandit4` system.
 
 * We have to find a file in human-readable format in the "inhere" directory. So we can use the `file` command that will show the type of the content inside the file. Please refer this [page](https://shapeshed.com/unix-file/) to know the in-depth use of file command in Linux.
 
@@ -42,4 +42,4 @@ The password to Level5 is
 koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 ```
 
-Go to [next]() level guide.
+Go to [next](https://github.com/jugnumisal/Overthewire-Bandit-Wargame-Solution/blob/master/Level5-%3ELevel6.md) level guide.

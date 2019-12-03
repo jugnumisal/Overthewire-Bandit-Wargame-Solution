@@ -6,7 +6,7 @@
 
 #### Guide
 
-* For this level, I assume that you have already entered the `bandit7` system via SSH. If you are not in the `bandit7` system, please refer [level6>level7]() guide to enter the `bandit7` system.
+* For this level, I assume that you have already entered the `bandit7` system via SSH. If you are not in the `bandit7` system, please refer [level6>level7](https://github.com/jugnumisal/Overthewire-Bandit-Wargame-Solution/blob/master/Level6-%3ELevel7.md) guide to enter the `bandit7` system.
 
 * This is a pretty simple and straightforward problem if you are familiarizee with the `grep` command.
 
@@ -33,4 +33,4 @@ The password to Level8 is
 cvX2JJa4CFALtqS87jk27qwqGhBM9plV
 ```
 
-Go to [next]() level guide.
+Go to [next](https://github.com/jugnumisal/Overthewire-Bandit-Wargame-Solution/blob/master/Level8-%3ELevel9.md) level guide.

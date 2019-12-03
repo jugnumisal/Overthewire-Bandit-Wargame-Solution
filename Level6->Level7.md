@@ -10,7 +10,7 @@
 
 #### Guide
 
-* For this level, I assume that you have already entered the `bandit6` system via SSH. If you are not in the `bandit6` system, please refer [level6->level7]() guide to enter the `bandit6` system.
+* For this level, I assume that you have already entered the `bandit6` system via SSH. If you are not in the `bandit6` system, please refer [level5->level6](https://github.com/jugnumisal/Overthewire-Bandit-Wargame-Solution/blob/master/Level5-%3ELevel6.md) guide to enter the `bandit6` system.
 
 * When you try to list the files in the `root` directory of `bandit6` system, you will observe that there are no files.
 
@@ -47,4 +47,4 @@ The password to Level7 is
 HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
 ```
 
-Go to [next]() level guide.
+Go to [next](https://github.com/jugnumisal/Overthewire-Bandit-Wargame-Solution/blob/master/Level7-%3ELevel8.md) level guide.

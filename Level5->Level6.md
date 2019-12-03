@@ -10,7 +10,7 @@ not executable`
 
 #### Guide
 
-* For this level, I assume that you have already entered the `bandit5` system via SSH. If you are not in the `bandit5` system, please refer [level4->level5]() guide to enter the `bandit5` system.
+* For this level, I assume that you have already entered the `bandit5` system via SSH. If you are not in the `bandit5` system, please refer [level4->level5](https://github.com/jugnumisal/Overthewire-Bandit-Wargame-Solution/blob/master/Level4-%3ELevel5.md) guide to enter the `bandit5` system.
 
 * Here, when you explore the filesystem in the `root` directory, you see that there is a directory named "inhere" followed by 20 other directories.
 
@@ -69,4 +69,4 @@ The password to Level6 is
 DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 ```
 
-Go to [next]() level guide.
+Go to [next](https://github.com/jugnumisal/Overthewire-Bandit-Wargame-Solution/blob/master/Level6-%3ELevel7.md) level guide.

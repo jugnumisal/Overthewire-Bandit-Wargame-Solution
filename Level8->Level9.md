@@ -6,7 +6,7 @@
 
 #### Guide
 
-* For this level, I assume that you have already entered the `bandit8` system via SSH. If you are not in the `bandit8` system, please refer [level7->level8]() guide to enter the `bandit8` system.
+* For this level, I assume that you have already entered the `bandit8` system via SSH. If you are not in the `bandit8` system, please refer [level7->level8](https://github.com/jugnumisal/Overthewire-Bandit-Wargame-Solution/blob/master/Level7-%3ELevel8.md) guide to enter the `bandit8` system.
 
 * To approach this problem, you must first `sort` the data which place all identical lines next to each other. To implement this, Linux provides a command `sort`. Refer [sort](http://man7.org/linux/man-pages/man1/sort.1.html) man page for documentation.
 
@@ -30,4 +30,4 @@ The password to Level9 is
 UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
 ```
 
-Go to [next]() level guide.
+Go to [next](https://github.com/jugnumisal/Overthewire-Bandit-Wargame-Solution/blob/master/Level9-%3ELevel10.md) level guide.
